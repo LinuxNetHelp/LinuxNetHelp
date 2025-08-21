@@ -3,16 +3,6 @@
 📌 Please Subscribe to My YouTube Channel 👉 [LinuxNetHelp](https://www.youtube.com/@linuxnethelp)  
 
 ---
-## 🏆 GitHub Achievements  
-
-- 🤝 **Pair Extraordinaire ×3**  
-- ⭐ **Starstruck ×4**  
-- 🦈 **Pull Shark ×3**  
-- 💖 **Public Sponsor**  
-- ⚡ **YOLO**  
-- 🎯 **Quickdraw**  
-
----
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LinuxNetHelp&show_icons=true&theme=radical)  
