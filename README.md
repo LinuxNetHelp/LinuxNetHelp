@@ -7,9 +7,6 @@
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LinuxNetHelp&show_icons=true&theme=radical)
 
-## 🏆 GitHub Achievements  
-![Trophies](https://github-profile-trophy.vercel.app/?username=LinuxNetHelp&theme=onedark)
-
 ## 🔥 Streak Stats  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=LinuxNetHelp&theme=dark)
 
