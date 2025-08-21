@@ -1,5 +1,9 @@
 # 👋 Hi, I’m LinuxNetHelp  
 
+<a href="https://github.com/LinuxNetHelp">
+  <img align="left" src="https://avatars.githubusercontent.com/LinuxNetHelp" width="180" />
+</a>
+
 📌 Please Subscribe My YouTube Channel 👉 [LinuxNetHelp](https://www.youtube.com/@linuxnethelp)  
 
 ---
@@ -16,6 +20,18 @@
 ![Followers](https://img.shields.io/github/followers/LinuxNetHelp?style=social)
 ![Stars](https://img.shields.io/github/stars/LinuxNetHelp?style=social)
 ![Visitor Count](https://komarev.com/ghpvc/?username=LinuxNetHelp&color=blue)
+
+---
+
+## 🏆 Achievements  
+- 🏅 Pair Extraordinaire ×3  
+- 🌟 Starstruck ×4  
+- 🐟 Pull Shark ×3  
+- 💖 Public Sponsor  
+- ⚡ YOLO  
+- 🎯 Quickdraw  
+- 🎥 50+ Linux & Networking Tutorials on YouTube  
+- 🌍 Helping learners from 20+ countries  
 
 ---
 
